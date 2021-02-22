@@ -1,5 +1,5 @@
 fvalue = int(input("Enter the first value: "))
 lvalue = int(input("Enter the last value:  "))
 
-ans=  fvalue+lvalue
+ans =  fvalue+lvalue
 print(ans)
